@@ -62,6 +62,10 @@ form {
   width: 90%;
 }
 
+label {
+  align-self: flex-start;
+}
+
 input {
   padding: 5px;
 }
